@@ -6,7 +6,7 @@ import { images, dom } from "../data.js";
     images.forEach((image) => {
       const imageBox = document.createElement('div');
       imageBox.classList.add('image-box');
-      imageBox.dataset.name = image.name;
+      imageBox.dataset.name = image.dataName;
   
       const imgElement = document.createElement('img');
       imgElement.src = image.src;
