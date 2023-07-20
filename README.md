@@ -17,7 +17,7 @@
 
 ## Screenshots
 
-![screen]()
+![screen](./assets/screen.png)
 
 ## Technologies
 
