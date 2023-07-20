@@ -17,7 +17,7 @@
 
 ## Screenshots
 
-![Example screenshot]()
+![screen]()
 
 ## Technologies
 
@@ -28,26 +28,14 @@
 
 ## Setup
 
-clone the repo and start using the stop watch.
-
-## Code Examples
-
-```js
-
-```
+Clone the repo and start search.
 
 ## Features
 
-List of features ready and Todos for future development
-
--
--
--
-
 To-do list:
 
--
--
+- add more functionality
+- improve the style of the page
 
 ## Status
 
